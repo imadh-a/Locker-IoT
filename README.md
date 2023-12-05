@@ -1,7 +1,7 @@
 # Locker based IoT Model
 
 ## 1. Introduction
-The IoT based project is focused on designing and developing a secure and innovative locker system that utilizes biometric authentication in the form of fingerprint recognition for access control. We built a prototype with a secure and innovative locker system that utilizes biometric authentication in the form of fingerprint recognition for access control
+The IoT based project is focused on designing and developing a secure and innovative locker system that utilizes biometric authentication in the form of fingerprint recognition for access control. I built a prototype with a secure and innovative locker system that utilizes biometric authentication in the form of fingerprint recognition for access control
 ## 2. Methodology 
 ● The user will press ‘A’ to set a new pin and fingerprint or ‘B’ to enter the pin to open the door.
 ● If ‘A’ is pressed the user will be asked to enter a new pin.
